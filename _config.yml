@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Mauric's Blog
+subtitle: "About things that I'm thinking on ..."
+email: mauric.caceres@gmail.com
+name: Mauricio Cáceres
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  A simple blog where some day I started to write cool stuffs.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -86,7 +86,7 @@ social:
 
   - name: GitHub
     icon: github
-    username: mauric 
+    username: mauric
     url: https://github.com/mauric
     desc: Fork me on GitHub
     share: false
@@ -196,4 +196,3 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
-

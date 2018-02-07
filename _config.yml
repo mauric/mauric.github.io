@@ -86,17 +86,16 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
+    username: mauric-caceres
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
     share: true
 
-  - name: Instagram
-    icon: instagram
-    username:
-    url:
-    desc: Follow me on Instagram
-    share: false
+#  - name: Instagram icon: instagram
+#    username:
+#    url:
+#    desc: Follow me on Instagram
+#    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter

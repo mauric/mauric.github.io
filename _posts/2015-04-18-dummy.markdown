@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "The effects and consequences of spread great ideas"
 date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Dummy
+author: Mauricio Cáceres
+categories: Interesting
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Good days can start great periods of joy in our lifes, bad days can also
+destroy our future. In the same way good ideas can change the world, but
+even with that impact of power it can die without beign "spread"

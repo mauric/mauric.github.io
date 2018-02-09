@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauric's Blog</title>
+    <description>A simple blog where some day I started to write cool stuffs.
+</description>
+    <link>http://mauric.github.io/</link>
+    <atom:link href="http://mauric.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Feb 2018 15:21:28 -0300</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2018 15:21:28 -0300</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>The effects and consequences of spread great ideas</title>
+        <description>&lt;p&gt;Good days can start great periods of joy in our lifes, bad days can also
+destroy our future. In the same way good ideas can change the world, but
+even with that impact of power it can die without beign “spread”&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Apr 2015 05:43:59 -0300</pubDate>
+        <link>http://mauric.github.io/interesting/2015/04/18/dummy.html</link>
+        <guid isPermaLink="true">http://mauric.github.io/interesting/2015/04/18/dummy.html</guid>
+        
+        
+        <category>Interesting</category>
+        
+      </item>
+    
+  </channel>
+</rss>

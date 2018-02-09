@@ -2,7 +2,7 @@
 layout: post
 title:  "The effects and consequences of spread great ideas"
 date:   2015-04-18 08:43:59
-author: Mauricio Cáceres
+author: Mauric
 categories: Interesting
 ---
 

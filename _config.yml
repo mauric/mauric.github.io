@@ -33,14 +33,6 @@ plugins:
   - jekyll-feed
 
 # Front Matter Defaults: only set for post 
-defaults:
-  - 
-    scope:
-      path:
-      type: "posts"
-    values:
-        layout: "post"
-
 
 
 

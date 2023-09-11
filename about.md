@@ -14,3 +14,8 @@ I have substantial experience in reports and documentation.
 I'm passionate about engineering and technology. I'm currently re-building my website 
 to bring some visibility to my latest work, projects and research.
 
+I have re-built this blog to refactor the order of the articles and give a more stratightforward
+way to put the information. Using a more compact format and the power of markdown. 
+The idea is to put in the best order possible some thought, ideas and what I'm learning 
+to be available for readers that want to use this articles as tools in the technical side but also
+have a bit more of philosophy and some clues about how manage the ambiguity of subjective decisions. 

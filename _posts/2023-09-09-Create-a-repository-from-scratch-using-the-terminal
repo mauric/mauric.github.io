@@ -10,7 +10,7 @@ permalink: /:categories/:year/:month/:day
 
 
 
-First thing I want to do is show the basic steps to create a repository only using a Linux/Mac terminal. This scenario is very common
+**First thing** I want to do is show the basic steps to create a repository only using a Linux/Mac terminal. This scenario is very common
 when you are starting a project from scratch probaly just doing some testing and after some intents you arrive a quite interesting 
 version of your code so you want to start tracking it or directly uploaded to github. 
 
@@ -161,19 +161,18 @@ References
 1. Open Terminal
 2. Navigate to the root directory of your project
 3. Initialize the local directory as a Git repository:
-    1. git init -b main
+    1. `git init -b main`
 4. Add the file sin your new local repository :
-    1. git add . → this command will stage all the files in the local repo
-    2. git reset HEAD YOUR-FILE → will remove from stage any specific file
+    1. `git add . `→ this command will stage all the files in the local repo
+    2. `git reset HEAD YOUR-FILE` → will remove from stage any specific file
 5. Commit your changes
-    1. git commit -m "first commit"
-    2. to remove commit → git reset —soft HEAD~1
+    1. `git commit -m "first commit"`
+    2. to remove commit → `git reset —soft HEAD~1`
     3. commit the file again
 
 ## Adding a local repository to GitHub using Git
 
 Create and empty repository to avoid errors do not create any additional file like README, license or gitignore files.
-
 Copy the remote repository URL. If you have set your SSH keys for authorization then select the SSH URL.
 
 1. Open Terminal
@@ -186,32 +185,28 @@ Push the changes with
 
 ```go
 git push -u origin main
-
 ```
 
-Parece que tengo algun error con el setup de la branch que está arriba en el repo recién creado dado que este está vacío y no tengo configurado el —set-upstream-to
+## Troubleshooting unrelated histories
 
-aunque ya lo configure tengo este error
+One issue that appeared when following this procedure was related to this message 
+```
+fatal: refusing to merge unrelated histories
+```
 
-**fatal: refusing to merge unrelated histories**
+Basically what is happening is that the repository I have created using the Github website has been initialized with a 
+license file, the best option is to create an empty repository. Github associate that license file to an initial commit. 
+Since I have create a new local repository using the terminal and add a initial commit this is entering in conflict 
+with the license initial commit when trying to pull changes in order to push into the remote repo my local changes. 
+And this situation is preventing me to continue with a normal git workflow since git has no idea how the two projects are related.  
 
-la solución es esta: https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error
-
-Básicamente lo que tengo es un proyecto ( o repo) creado desde github en la página web en el cual fue creado un archivo de licencia con el cual se asocio un “initial commit”. Esto hace que al momento de linkear ese repositorio con mi código en local no haya ninguna clase de problema pero si cuando quiero comenzar a pushear o pullear cambios dentro de la dinámica que siempre usamos con git.
-
-Las razones son
-
-- You have cloned a project and, somehow, the `.git` directory got deleted or corrupted. This leads Git to be unaware of your local history and will, therefore, cause it to throw this error when you try to *push to* or *pull from* the remote repository.
-- You have created a new repository, added a few *commits* to it, and now you are trying to *pull* from a remote repository that already has some commits of its own. Git will also throw the error in this case, since it has no idea how the two projects are related.
-
-
+There a solution in this [article](https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error) associate with a more detailed explanation about the issue. 
 
 ## References
-]
 
 - [Generating a new ssh key and adding it to ssh agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 - [Github doc: connection to Github with ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
 - [Github tutorial](https://kbroman.org/github_tutorial/)
 - [Azure ssh documentation](https://learn.microsoft.com/en-us/azure/devops/repos/git/gcm-ssh-passphrase?view=azure-devops)
-
+- [Standford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch05.html#_8230_and_then_some)
 

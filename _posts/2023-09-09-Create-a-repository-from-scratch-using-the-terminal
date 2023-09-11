@@ -153,30 +153,9 @@ remote: Enumerating objects: 1614, done.
 remote: Total 1614 (delta 0), reused 0 (delta 0), pack-reused 1614
 Receiving objects: 100% (1614/1614), 8.07 MiB | 4.78 MiB/s, done.
 Resolving deltas: 100% (826/826), done.
-
 ```
 
----
-
-### Preguntas interesantes que se pueden responder (ensayo)
-
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases
-
-**Que es el ssh-agent?**
-
-Que es la keychain?
-
-Porque las claves DSA y las RSA están deprecadas? https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
-
-Este comando esta usando el algoritmo mencionado arriba y además usa el email como label
-
-En un momento también la línea de comando nos pregunta donde queremos guardarla generalmente usamos la ubicación por defecto dado que los sistemas UNIX tiene una ubicación específica para dejar los
-
----
-
-# Como crear desde un repositorio desde cero solo usando la terminal
-
-Referencias
+References
 
 - https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github?platform=mac
 1. Open Terminal
@@ -230,9 +209,9 @@ Las razones son
 ## References
 ]
 
-- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh
-- https://kbroman.org/github_tutorial/
+- [Generating a new ssh key and adding it to ssh agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Github doc: connection to Github with ssh](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
+- [Github tutorial](https://kbroman.org/github_tutorial/)
+- [Azure ssh documentation](https://learn.microsoft.com/en-us/azure/devops/repos/git/gcm-ssh-passphrase?view=azure-devops)
 
 
-https://learn.microsoft.com/en-us/azure/devops/repos/git/gcm-ssh-passphrase?view=azure-devops

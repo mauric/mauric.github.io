@@ -123,6 +123,8 @@ trying to clone a repository from your account. Let's use new repository we have
 
 ```bash
 $ % git clone git@github.com:THE-NAME-OF-THE-REPO
+```
+```
 Cloning into 'name-of-the-repo-folder'...
 The authenticity of host 'github.com (--IP ADDRESS HERE --)' can't be established.
 ED25519 key fingerprint is SHA256:--FINGERPRINT HERE--.

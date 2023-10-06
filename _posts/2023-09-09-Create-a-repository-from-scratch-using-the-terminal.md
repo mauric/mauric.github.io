@@ -67,7 +67,7 @@ an hexadecimal representation of the key fingerprint. To solve this problem the 
 make use of computer generated art using the ["Hash Vizualization"](https://users.ece.cmu.edu/~adrian/projects/validation/validation.pdf)technique to replace meaningless string with structured images. 
 
 
-### Inicio del ssh-agent
+### Initialize the ssh-agent
 
 Is necesary to validate that ssh-agent is enable for you system. In most linux systems the agent 
 is started and configured at login automatically. This agent will use your private keys to manage all 

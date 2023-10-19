@@ -65,13 +65,11 @@ and put a lot of work online. I like to think that they did it first for themsel
 But I will put here the most important which belong to Andrej Karphaty, scientist in chief of Open AI has been an incredible reference for me since I started to follow
 his work on 2016 while studying his Standfor Deep Learning Course and it has been like a mentor to me. 
 
-https://karpathy.ai/
-https://karpathy.github.io/
+[karphaty blog](https://karpathy.ai/)
+[karphaty blog](https://karpathy.github.io/)
 
 There are also some other resources I used:
-
-https://bronwynnepowell.com/why-is-writing-important/
-https://www.openculture.com/2020/10/the-craft-of-writing-effectively-uchicago.html
-
+[U chicago writing program](https://www.openculture.com/2020/10/the-craft-of-writing-effectively-uchicago.html)
+[rsc1](https://bronwynnepowell.com/why-is-writing-important/)
 
 

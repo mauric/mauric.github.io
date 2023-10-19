@@ -17,7 +17,6 @@ Writing is a form of self-expression and allows you to convey your thoughts and 
 meaningful way. If you formulate your words precisely, thinking not only in what you want to 
 express, but also about changing the way your readers think (if you have any), you can create original value with your writing. 
 
-
 Never underestimate the power of words. The ability to communicate high quality ideas is an incredible valuable asset. 
 
 Some other benefits of writing include:
@@ -29,8 +28,9 @@ Some other benefits of writing include:
 - It can help you achieve your goals and improve your productivity.
 - It can be a great way to document your personal or professional growth.
 
-Be prepare to get involved in a writing session comes along with some physical and mental resistance that you need to overcome. Among them we can mention distraction of all kinds, the need of move around your chair or clean up your desk, probably you will find beneficial to get more “confortable” or  go grub a cup of coffee, so far so on. Therefore, the practice of have a minimalistic routine that allows you to follow a few steps to setup your body and put down you mind to work is crucial in every kind of system that you create to write consistency. 
+The willingness to engage in a writing session comes with some physical and mental resistance that must overcome. These include distraction of all kinds, the need to move around your studio or clean up your desk, perhaps you find it beneficial to get “confortable” or have a cup of coffee, and so on and so forth. Therefore, the practice of have a minimalistic routine that allows you to follow a few steps to setup your body and put down you mind to work is crucial in every kind of system that you create to write consistency. 
 I'm talking about creativity to analyze different perspectives, mind control to make your thoughts more clear and make them flow to write fluently, the patience to stay calm when probably you have an stressful environment at work or a few urgent task that need aggressive action but sometimes you prefer to write down some thoughts before engage in those action in order to keep track of the execution of your plan.
+
 
 Overall, writing is a valuable skill that can help you improve yourself and your life in many ways.
 Whether you're writing for personal or professional reasons, it's always worth taking the time to put your thoughts down on paper.

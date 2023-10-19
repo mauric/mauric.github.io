@@ -9,17 +9,14 @@ image: mountains.jpg
 
 # Why start writing every day?
 
-The practice of writing every day make a positive difference in how we think and express ourselves. 
-Writing is associate with a better capacity of organize a set of complex, abstract and disordered ideas. 
-They can be inner thoughts of external uncompleted information that need to be processed. 
-
 The daily practice of writing has a positive effect on how we think and express ourselves. Writing is
  associated with a better ability to organize a series of complex, abstract, and disorganized ideas. 
  These may be internal thougths or external information that needs to be processed. 
 
-Writing is a form of self-expression and allows you to communicate your thoughts and ideas in clear and 
-meaningful way. Ultimately, if you are to craft your words precisely not only thinking in what you want to 
-express but to change how your readers (if you have them) think you will be able to create original value with your writing. 
+Writing is a form of self-expression and allows you to convey your thoughts and ideas in clear and 
+meaningful way. If you formulate your words precisely, thinking not only in what you want to 
+express, but also about changing the way your readers think (if you have any), you can create original value with your writing. 
+
 
 Never underestimate the power of words. The ability to communicate high quality ideas is an incredible valuable asset. 
 

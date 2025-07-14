@@ -32,6 +32,21 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Github pages configuration that cannot be changes
+#lsi: false
+#safe: true
+#source: [your repo's top level directory]
+#incremental: false
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
+
+
+
+
 # Front Matter Defaults: only set for post 
 
 

@@ -17,4 +17,6 @@ Ok this is good but, it doesn't scale to much. When your coming and go from diff
 # Just a regular, everyday, normal git commands
 
 One of the best uses of note what you usually use is the "git help everyday" guide that you can access typing that command on your terminal. They 
-really achieve the 
+really achieve the value taking notes effect
+
+Esto es una prueba para ejecutar amend

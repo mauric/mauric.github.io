@@ -54,3 +54,33 @@ que estos conceptos se popularizaron y resistiendo al tiempo fueron pulidos por 
 hasta hoy donde podemos decir que son parte tanto del lenguaje de programados que están 
 tratando de buscarle una solución a un problema como un standard en el diseño de software. 
 
+## ¿Por qué debería aprender estos patrones?
+
+Si vas a encarar una solución deberías estar seguro de que no estás reinventando la rueda. Si tiene forma de patrón usa el patrón, talvez lo tengas que ajustar un poco (limarle un 
+poco el costado para que entre y que no se rompa luego - sería una buena analogía mecánica). 
+Otra razón es que tantos tus colegas, miembros de tu equipo o comunidad van a buscar 
+comunicarse con herramientas estandar sobre todo si no hablan el mismo idioma. Entonces no 
+solo son conceptos sino que es lenguaje. 
+- "Esto que han implementado en esta librería tien forma de Adapter con un bridge" podría ser un ejemplo de una conversación mientras buscamos entender el código 
+que otra persona a escrito. 
+
+## Contraargumento para NO utilizar patrones
+
+Al ser abstracciones que resuelven complejidades frecuentes los patrones pueden llevar 
+a programas con tamaños indeseados o incluso ineficientes. 
+Otro escenario que no es ideal es cuando se utilizan patrones de manera excesiva o para tamaños de software que no se justifican. 
+**Volcando esta indesición por sacrificar un poco de estandarización por un código más eficiente y personalizado a un uso excesivo de recursos o de complejidad en el código 
+que luego puede traducirse silenciosamente en tiempo mal utilizado por los desarrolladores**
+
+
+# Clasificación de patrones de diseño
+
+Según su nivel de abstracción alto o bajo podemos decir que los que están en el fondo de la 
+escala y que estan ligados fuertemente al lenguajes son los llamados **idioms**. En 
+contraparte veremos los patrones de más alto nivel que pueden ser implementados en cualquier
+lenguaje de programación a los **patrones de arquitectura**
+
+Fuera del nivel de abstracción encontramos una clasificación por *propósito* (que hace y como?):
+1 - Patrones creacionales: creación de objetos y reutilización de código
+2 - Patrones estructurales: ensamblar objetos en estructuras más amplias manteniendo eficiencia
+3 - Patrones de comportamiento: comunicación efectiva y asignar responsabilidades. Patrones que funcionan como las grandes corporaciones. 

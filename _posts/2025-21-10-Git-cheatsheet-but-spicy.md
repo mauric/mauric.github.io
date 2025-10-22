@@ -43,3 +43,22 @@ HEAD is the currently branch latest commit, the ~1 is the latest minus one commi
 from there (which is actually what we want)
 
 --soft flags say that is not undo the changes, only undo the commit and move the head to the previous commit. 
+
+## There's no fear on branches
+
+A new branch is a safe place. Do not be afraid of it, use it in your advantage. A new branch is a place where you can just try whatever you want and even broke everything if needed to test something new or extreme. 
+Use this capability and put it in your side. 
+Now. 
+Be careful with branch names. Branches should be very very explicit in what they are doing or why they have been created just by reading their name. 
+If you make a mistake a merge a different branch just because you put a similar name with another that have a "critical" failure product of a test you do 
+the day before this error will pass on superior branches messing all the thing up. 
+Think that probably the person merging your branch could not be you, or that day you went on a sick leave and some of your teammates must merge your changes. 
+They have to be completely capable of doing it without you. Document branches clearly, use specific ticket or bug number, use tags like FIX, PATCH, BUG, DEV or other communications strategies. 
+
+## Merge conflicts
+
+Hangle merge conflict as a discussion with someone else about ideas. Take your time and think that other developers can have spend a lot of hours putting effort 
+in those changes. 
+Handle merge conflict in VS code. Communicate with your team. Focus on the workflow to be natural and easy to show and explain. Don't try to go full terminal just because is fast and fancy. Be smart. 
+
+## Forget about - git rebase - 
